@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, i'm Fabio Souza.  👋
 
-<!--
-**fabioso22/fabioso22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a passionate IT student with a strong interest in data analysis and programming, i believe my skills can be a significant contribution to any team. I have solid academic qualifications, as well as knowledge in various programming languages such as Python, SQL, R, and Java. Additionally, i also have knowledge in data analysis and visualization tools such as Power BI and Tableau. If necessary, i am proficient in operating VM in the Cloud, using AWS.
 
-Here are some ideas to get you started:
+I consider myself a creative and innovative problem solver with excellent interpersonal and communication skills and i am eager to utilize my academic skills and experience to contribute to the company and improve overall performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Fabio Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioso22&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioso22)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently looking for work.
+- 🌱 I’m currently learning Data engineer.
+- 😄 Pronouns: he/him
