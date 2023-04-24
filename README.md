@@ -6,7 +6,7 @@ I consider myself a creative and innovative problem solver with excellent interp
 
 ![Fabio Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioso22&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioso22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioso22)](https://github.com/fabioso22/github-readme-stats)
 
 - 🔭 I’m currently looking for work.
 - 🌱 I’m currently learning Data engineer.
