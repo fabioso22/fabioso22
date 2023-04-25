@@ -1,8 +1,26 @@
-### Hi there, i'm Fabio Souza.  👋
+<div class="texto-centralizado">
+  <p><h1>Hello everyone 👋 i'm Fabio Souza.</h1></p>
+</div> 
 
-I have solid academic qualifications, as well as knowledge in various programming languages such as Python, SQL, R, and Java. Additionally, i also have knowledge in data analysis and visualization tools such as Power BI and Tableau. If necessary, i am proficient in operating VM in the Cloud, using AWS.
+Data analyst and Power BI dashboard specialist. Currently, i am learning Data Engineering to further improve in my field. 👨‍💻
 
-I consider myself a creative and innovative problem solver with excellent interpersonal and communication skills and i am eager to utilize my academic skills and experience to contribute to the company and improve overall performance.
+I am someone who values teamwork, assimilates new knowledge quickly, very creative and likes to innovate. ✌️
+
+Hobbies: Passionate about traveling 🗺️ make some coffees ☕, drinks 🍹 and cooking 🍲.
+
+<h1>📌 Skills</h1>
+<div style="display: inline_block"><br/>
+	<img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img aling="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+<h1>🕹️ Soft skills</h1>
+Finally, i have some soft skills that I think are important to have, problem solving, critical thinking, teamwork and continuous learning ability.
+
+<h1>⭐ Stats</h1>
 
 ![Fabio Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioso22&show_icons=true&theme=radical)
 
