@@ -1,12 +1,12 @@
-<div class="texto-centralizado">
+<div align="center">
   <p><h1>Hello everyone 👋 i'm Fabio Souza.</h1></p>
-</div> 
+ 
 
-Data analyst and Power BI dashboard specialist. Currently, i am learning Data Engineering to further improve in my field. 👨‍💻
+<div align="center">Data analyst and Power BI dashboard specialist. Currently, i am learning Data Engineering to further improve in my field. 👨‍💻
 
 I am someone who values teamwork, assimilates new knowledge quickly, very creative and likes to innovate. ✌️
 
-Hobbies: Passionate about traveling 🗺️ make some coffees ☕, drinks 🍹 and cooking 🍲.
+Hobbies: Passionate about traveling 🗺️ make some coffees ☕, drinks 🍹 and cooking 🍲.</div>
 
 <h1>📌 Skills</h1>
 <div style="display: inline_block"><br/>
@@ -22,10 +22,9 @@ Finally, i have some soft skills that I think are important to have, problem sol
 
 <h1>⭐ Stats</h1>
 
-![Fabio Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioso22&show_icons=true&theme=radical)
+![Fabio Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioso22&show_icons=true&theme=algolia)    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioso22&show_icons=true&theme=algolia&hide_progress=true)](https://github.com/fabioso22/github-readme-stats" width="354px"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioso22)](https://github.com/fabioso22/github-readme-stats)
-
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning Data engineer.
-- 😄 Pronouns: he/him
+<br>🔭 I’m currently looking for work.</br>
+<br>🌱 I’m currently learning Data engineer.</br>
+<br>😄 Pronouns: he/him</br>
+</div>
